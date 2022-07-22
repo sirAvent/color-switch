@@ -1,0 +1,23 @@
+msgid "red"
+msgstr "红色"
+
+msgid "yellow"
+msgstr "黄色"
+
+msgid "white"
+msgstr "白色"
+
+msgid "blue"
+msgstr "蓝色"
+
+msgid "gameover"
+msgstr "您选错了颜色!\n您的分数是 "
+
+msgid "playagain"
+msgstr "!\n\n按下可再次播放"
+
+msgid "timeout"
+msgstr "你的时间不多了!\n您的分数是 "
+
+msgid "score"
+msgstr "分数:"

@@ -1,0 +1,23 @@
+msgid "red"
+msgstr "Rojo"
+
+msgid "yellow"
+msgstr "Amarillo"
+
+msgid "white"
+msgstr "Blanco"
+
+msgid "blue"
+msgstr "Azul"
+
+msgid "gameover"
+msgstr "¡Elegiste el color incorrecto!\n¡Su puntuación fue de "
+
+msgid "playagain"
+msgstr "!\n\nToca para volver a jugar"\
+
+msgid "timeout"
+msgstr "¡Te quedaste sin tiempo!\n¡Su puntuación fue de "
+
+msgid "score"
+msgstr "Puntaje:"
