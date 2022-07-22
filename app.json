@@ -1,0 +1,121 @@
+{
+  "i18n": {
+    "en-US": {
+      "appName": "Color Switch"
+    },
+    "zh-CN": {
+      "appName": "颜色混合"
+    },
+    "en-ES": {
+      "appName": "Cambio de Colores"
+    }
+  },
+  "defaultLanguage": "en-US",
+  "app": {
+    "appIdType": 0,
+    "appType": "app",
+    "version": {
+      "code": 1,
+      "name": "1.0.2"
+    },
+    "cover": [],
+    "appId": 1005356,
+    "appName": "Color Switch",
+    "icon": "icon.png",
+    "vender": "zepp",
+    "description": "A color game"
+  },
+  "runtime": {
+    "apiVersion": {
+      "compatible": "1.0.0",
+      "target": "1.0.1",
+      "minVersion": "1.0.0"
+    }
+  },
+  "targets": {
+    "gtr-3-pro": {
+      "module": {
+        "page": {
+          "pages": [
+            "page/gtr-3/home/index.page"
+          ],
+          "window": {
+            "navigationBarBackgroundColor": "#ffffff",
+            "navigationBarTextStyle": "black",
+            "navigationBarTitleText": "",
+            "backgroundColor": "#eeeeee",
+            "backgroundTextStyle": "light"
+          }
+        }
+      },
+      "designWidth": 480,
+      "platforms": [
+        {
+          "name": "gtr-3-pro",
+          "deviceSource": 229
+        },
+        {
+          "name": "gtr-3-prow",
+          "deviceSource": 230
+        }
+      ]
+    },
+    "gtr-3": {
+      "module": {
+        "page": {
+          "pages": [
+            "page/gtr-3/home/index.page"
+          ],
+          "window": {
+            "navigationBarBackgroundColor": "#ffffff",
+            "navigationBarTextStyle": "black",
+            "navigationBarTitleText": "",
+            "backgroundColor": "#eeeeee",
+            "backgroundTextStyle": "light"
+          }
+        }
+      },
+      "designWidth": 454,
+      "platforms": [
+        {
+          "name": "gtr-3",
+          "deviceSource": 226
+        },
+        {
+          "name": "gtr-3w",
+          "deviceSource": 227
+        }
+      ]
+    },
+    "gts-3": {
+      "module": {
+        "page": {
+          "pages": [
+            "page/gts-3/home/index.page"
+          ],
+          "window": {
+            "navigationBarBackgroundColor": "#ffffff",
+            "navigationBarTextStyle": "black",
+            "navigationBarTitleText": "",
+            "backgroundColor": "#eeeeee",
+            "backgroundTextStyle": "light"
+          }
+        }
+      },
+      "designWidth": 390,
+      "platforms": [
+        {
+          "name": "gts-3",
+          "deviceSource": 224
+        },
+        {
+          "name": "gts-3w",
+          "deviceSource": 225
+        }
+      ]
+    }
+  },
+  "configVersion": "v2",
+  "permissions": [],
+  "debug": false
+}
