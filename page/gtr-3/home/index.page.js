@@ -201,7 +201,9 @@ Page({
   onDestroy() {
     logger.log('page onDestroy invoked')
     // localStorage.set(this.state.data)
-    timer.stopTimer(playInterval)
+    try {
+        timer.stopTimer(playInterval)
+    } catch {}
     vibrate && vibrate.stop()
 
   },
